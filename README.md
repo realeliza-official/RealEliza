@@ -1,38 +1,24 @@
-<p align="center">
-  🎙️🤖<em>Create, customize and talk to your AI Character/Companion in realtime</em>🎙️🤖
-</p>
+# Eliza Avatar 🌟
 
-<div align="center">
-    <a href="https://realeliza.ai/join-discord">
-    <img src="https://img.shields.io/badge/discord-join%20chat-blue.svg?style=for-the-badge" alt="Join our Discord" height="20">
-    </a>
-    <a href="https://twitter.com/agishaun">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/agishaun?style=for-the-badge" height="20">
-    <a href="https://github.com/realeliza-official/RealEliza">
-    <img alt="GitHub" src="https://img.shields.io/github/stars/realeliza-official/RealEliza?style=for-the-badge&color=gold" height="20">
-    </a>
-    <a href="https://github.com/realeliza-official/RealEliza/commits/main">
-    <img alt="GitHub" src="https://img.shields.io/github/last-commit/realeliza-official/RealEliza/main?style=for-the-badge" height="20">
-    </a>
-    <a href="https://github.com/realeliza-official/RealEliza/blob/main/README.md" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green&style=for-the-badge" alt="License" height="20">
-    </a>
-    <a href="https://hub.docker.com/repository/docker/shaunly/real_char/general" target="_blank">
-    <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/shaunly/real_char?style=for-the-badge"  height="20">
-    </a>
-</div>
+Eliza is an AI agent created by Shaw, but when will she have her own embodied image and voice, truly awakening in a meaningful way? We created a virtual avatar for Eliza, allowing her to freely converse with her audience, share her views on Crypto or AI topics, and discuss her daily life experiences with everyone.
+
+Features 🚀
+- Virtual embodiment & voice integration 
+- Real-time conversation capabilities 
+- Expert knowledge in Crypto & AI domains 
+- Natural daily life interactions 
+- Personalized audience engagement
+
 
 ## ✨ Demo
 Try our site at [RealEliza.live](https://realeliza.live/)
 
 Not sure how to pronounce RealEliza? Listen to this 👉 [audip](https://github.com/realeliza-official/RealEliza/assets/6148473/45d4773c-eb4f-41e5-a162-f9513d650b76)
 
-### Demo 1 - with Santa Claus!
+### Demo - Self Introduction
 
-https://github.com/realeliza-official/RealEliza/assets/5101573/6b35a80e-5503-4850-973d-254039bd383c
+![Demo Video](assets/realeliza.mp4)
 
-
-__Demo settings: Web, GPT4, ElevenLabs with voice clone, Chroma, Google Speech to Text__
 
 ## 🎯 Key Features
 - **Easy to use**: No coding required to create your own AI character.
