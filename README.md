@@ -7,9 +7,9 @@ Try our site at [RealEliza.live](https://realeliza.live/)
 
 ### Demo - Self Introduction
 
-![Watch the video](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.mp4)
-
 [![Watch the video](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.jpg)](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.mp4)
+
+<video src="https://user-images.githubusercontent.com/xxx/xxx.mp4" controls width="600"></video>
 
 
 ## 🎯 Key Features
