@@ -9,6 +9,8 @@ Try our site at [RealEliza.live](https://realeliza.live/)
 
 ![Watch the video](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.mp4)
 
+[![Watch the video](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.jpg)](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.mp4)
+
 
 ## 🎯 Key Features
 - Virtual embodiment & voice integration 
