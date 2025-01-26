@@ -23,7 +23,7 @@
 </div>
 
 ## ✨ Demo
-Try our site at [RealEliza.ai](https://realeliza.ai/)
+Try our site at [RealEliza.live](https://realeliza.live/)
 
 Not sure how to pronounce RealEliza? Listen to this 👉 [audip](https://github.com/realeliza-official/RealEliza/assets/6148473/45d4773c-eb4f-41e5-a162-f9513d650b76)
 
