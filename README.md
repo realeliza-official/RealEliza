@@ -2,31 +2,20 @@
 
 Eliza is an AI agent created by Shaw, but when will she have her own embodied image and voice, truly awakening in a meaningful way? We created a virtual avatar for Eliza, allowing her to freely converse with her audience, share her views on Crypto or AI topics, and discuss her daily life experiences with everyone.
 
-Features 🚀
+## ✨ Demo
+Try our site at [RealEliza.live](https://realeliza.live/)
+
+### Demo - Self Introduction
+
+![Watch the video](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.mp4)
+
+
+## 🎯 Key Features
 - Virtual embodiment & voice integration 
 - Real-time conversation capabilities 
 - Expert knowledge in Crypto & AI domains 
 - Natural daily life interactions 
 - Personalized audience engagement
-
-
-## ✨ Demo
-Try our site at [RealEliza.live](https://realeliza.live/)
-
-Not sure how to pronounce RealEliza? Listen to this 👉 [audip](https://github.com/realeliza-official/RealEliza/assets/6148473/45d4773c-eb4f-41e5-a162-f9513d650b76)
-
-### Demo - Self Introduction
-
-![Demo Video](assets/realeliza.mp4)
-
-
-## 🎯 Key Features
-- **Easy to use**: No coding required to create your own AI character.
-- **Customizable**: You can customize your AI character's personality, background, and even voice
-- **Realtime**: Talk to or message your AI character in realtime
-- **Multi-Platform**: You can talk to your AI character on web, terminal and mobile(Yes. we open source our mobile app)
-- **Most up-to-date AI**: We use the most up-to-date AI technology to power your AI character, including OpenAI, Anthropic Claude 2, Chroma, Whisper, ElevenLabs, etc.
-- **Modular**: You can easily swap out different modules to customize your flow. Less opinionated, more flexible. Great project to start your AI Engineering journey.
 
 ## 🔬 Tech stack
 
