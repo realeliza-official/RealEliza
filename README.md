@@ -7,10 +7,7 @@ Try our site at [RealEliza.live](https://realeliza.live/)
 
 ### Demo - Self Introduction
 
-[![Watch the video](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.jpg)](https://raw.githubusercontent.com/realeliza-official/RealEliza/master/assets/realeliza.mp4)
-
-<video src="https://user-images.githubusercontent.com/xxx/xxx.mp4" controls width="600"></video>
-
+<video controls src="https://private-user-images.githubusercontent.com/78158731/406728626-06f2c344-b73a-4e6b-b028-527c300ef3ef.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc4OTI3MDEsIm5iZiI6MTczNzg5MjQwMSwicGF0aCI6Ii83ODE1ODczMS80MDY3Mjg2MjYtMDZmMmMzNDQtYjczYS00ZTZiLWIwMjgtNTI3YzMwMGVmM2VmLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDExNTMyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNGMxNDlhZmNlNjhiMmNlOTA1ZTg5NzM1YjJlMjFhMWY4ODRiNzU2MmFhNjBkYjM2YTNiNDA4YmJhYTNhYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hhWvMNI4mmljEM2gRrv-hR8XfkuNZAN-IbUJrJEF-vU" title="Self Introduction"></video>
 
 ## 🎯 Key Features
 - Virtual embodiment & voice integration 
